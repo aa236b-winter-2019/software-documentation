@@ -1,4 +1,4 @@
-# software-documentation
+# Software Documentation
 
 
-here is a test
+In this repository, all of the software we used and its features are documented.
